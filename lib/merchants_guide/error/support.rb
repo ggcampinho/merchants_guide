@@ -1,0 +1,1 @@
+require 'merchants_guide/error/support'

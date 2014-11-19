@@ -1,0 +1,5 @@
+require 'merchants_guide/error'
+require 'merchants_guide/support'
+require 'merchants_guide/number'
+require 'merchants_guide/metric'
+require 'merchants_guide/application'
